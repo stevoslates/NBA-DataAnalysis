@@ -1,17 +1,17 @@
 import matplotlib.pyplot as plt 
 import numpy as np
 import pandas as pd
-#from data import nba_data, okcupid_data
 
+#reading csv
 df = pd.read_csv('/Users/stevenslater/Desktop/nba.csv')
 
+#creating pandas dataframe
 heights = df['player_height']
 print(heights.head())
 nba_mean = np.mean(heights)
 print(nba_mean)
-#okcupid_mean = np.mean(okcupid_data)
 
-#Change this variable to your height (in inches)!
+#Can input your own height (in cm) to see where you compare
 your_height = 185
 
 nba_standard_deviation = np.std(heights)
