@@ -1,7 +1,8 @@
 # NBA-DataAnalysis
-Data Analysis Project using massive dataset filled with NBA players past and present. Using a mixture of Pandas, Seaborn, Numpy and Matplotlib in order to manipulate and graph the data.
+Data Analysis Project using massive dataset filled with NBA players past and present. Using a mixture of Pythons Data Libraries, such as - Pandas, Seaborn, Numpy and Matplotlib in order to manipulate and graph the data.
 
 Sample of the DataSet:
+<img src="https://github.com/stevoslates/NBA-DataAnalysis/blob/main/NBA-Sample.png" alt="alt text" width="750" height="500">
 
 
 
